@@ -1,4 +1,5 @@
 ### about me:
-hi there, my name is dominic fernandez, i'm 17 years old
+1. my name is dominic fernandez
+2. i'm 17 years old
 ### where do i study??
-i study at elizabeth seton school
+1. i study at elizabeth seton school
